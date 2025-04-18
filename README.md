@@ -238,6 +238,32 @@ In **Settings > Secrets and variables > Actions**, add:
 
 ✅ **All done — AI services and Bestbuy Demo are configured and ready to deploy!**
 
+## Microservice Repositories
+
+| Service         | Repository Link                                                                 |
+|:----------------|:-------------------------------------------------------------------------------|
+| Store-Front     | [Store-Front Repo](https://github.com/AbdulRafay2325/store-front-Bestbuy)               |
+| Store-Admin     | [Store-Admin Repo](https://github.com/AbdulRafay2325/store-admin-Bestbuy)               |
+| Order-Service   | [Order-Service Repo](https://github.com/AbdulRafay2325/order-service-Bestbuy)           |
+| Product-Service | [Product-Service Repo](https://github.com/AbdulRafay2325/product-service-Bestbuy)       |
+| Makeline-Service| [Makeline-Service Repo](https://github.com/AbdulRafay2325/makeline-service-Bestbuy)     |
+| Ai-Service      | [Ai-Service Repo](https://github.com/AbdulRafay2325/Microservice-repos/blob/main/ai-service-Bestbuy)                 |
+| Virtual-Worker  | [Virtual-Worker Repo](https://github.com/AbdulRafay2325/virtual-worker-Bestbuy)         |
+| Virtual-Customer| [Virtual-Customer Repo](https://github.com/AbdulRafay2325/virtual-customer-Bestbuy)     |
+
+## Docker Images
+
+| Service         | Docker Image Link                                                              |
+|:----------------|:----------------------------------------------------------------------------|
+| Store-Front     | [Docker Hub](https://hub.docker.com/r/abdulrafay2325/store-front-bestbuy)               |
+| Store-Admin     | [Docker Hub](https://hub.docker.com/r/abdulrafay2325/store-admin-bestbuy)               |
+| Order-Service   | [Docker Hub](https://hub.docker.com/r/abdulrafay2325/order-service-bestbuyf)             |
+| Product-Service | [Docker Hub](https://hub.docker.com/r/abdulrafay2325/product-service-bestbuyf)           |
+| Makeline-Service| [Docker Hub](https://hub.docker.com/r/abdulrafay2325/makeline-service-bestbuy)          |
+| Ai-Service      | [Docker Hub](https://hub.docker.com/r/abdulrafay2325/ai-service-bestbuy)                |
+
+
+
 ## Conclusion: Challenges Faced During Deployment
 
 Throughout this deployment process, a few challenges surfaced:
